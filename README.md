@@ -2,7 +2,8 @@
 
 > **NOTE:** This fork is specific to my printer:
 > Ender 3 Pro with the following modifications:
-> - BigtreeTech SKR 1.4 Turbo
+> - Bigtree-Tech SKR 1.4 Turbo
+> - Bigtree-Tech TFT35 E3 V3.0
 > - TMC2209 Drivers on X,Y,Z,E0
 > - BLTouch v3.1 - using Z-axis endstop pins.
 > - Micro-Swiss Direct Drive Kit
@@ -14,6 +15,7 @@
 >
 > **Don't blame me if your crash your print head into the bed.**
 >
+> As of this check-in everything seems to be working.
 >
 > I **really** suggest you go check out the [Offical Marlin Source](https://github.com/MarlinFirmware/Marlin)
 
