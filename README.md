@@ -1,7 +1,5 @@
 # Marlin 3D Printer Firmware
 
-# Marlin 3D Printer Firmware
-
 > **NOTE:** This fork is specific to my printer:
 > Ender 3 Pro with the following modifications:
 > - BigtreeTech SKR 1.4 Turbo
